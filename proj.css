@@ -1,0 +1,48 @@
+/*body {
+    background-color: green;
+}
+
+h1 {
+    font-family: "Times New Roman"
+} */
+
+/* #asian{
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 10%;
+}*/
+
+#titl {
+    font-size: "90px";
+}
+
+#asian {
+    width: 10px;
+    height: 0px;
+    margin: -10px;
+}
+
+#west{
+	width: 10px;
+    height: -20px;
+    margin: -60px;
+}
+
+#ul1{
+        position : absolute;
+        left : 43%;
+        top: 100%;
+        margin-left: -$('.5').width()/2;
+        margin-top: -$('.5').height()/2;
+    }
+
+#ul2{
+        position : absolute;
+        left : 80%;
+        top : 100%;
+        margin-left : -$('.5').width()/2;
+        margin-top : -$('.5').height()/2;
+
